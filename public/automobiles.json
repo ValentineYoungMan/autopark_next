@@ -1,0 +1,66 @@
+[
+  {
+    "id": "0",
+    "name": "car1",
+    "category": "supercar",
+    "price": 4000000,
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis mattis velit, at pretium turpis mattis eu. In fringilla eleifend vestibulum. Aliquam vitae luctus elit. Curabitur maximus tortor at metus sodales, eu finibus nunc tincidunt. Curabitur arcu libero, sollicitudin in elit sed, fringilla venenatis lectus. Quisque vel vestibulum ex. Nulla ac ligula sit amet mauris volutpat eleifend at quis nibh. Sed varius ut lacus ac iaculis. ",
+    "img": "https://www.supercars.net/blog/wp-content/uploads/2019/11/best-supercar-by-year.png"
+  },
+  {
+    "id": "1",
+    "name": "car2",
+    "category": "lux",
+    "price": 4000000,
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis mattis velit, at pretium turpis mattis eu. In fringilla eleifend vestibulum. Aliquam vitae luctus elit. Curabitur maximus tortor at metus sodales, eu finibus nunc tincidunt. Curabitur arcu libero, sollicitudin in elit sed, fringilla venenatis lectus. Quisque vel vestibulum ex. Nulla ac ligula sit amet mauris volutpat eleifend at quis nibh. Sed varius ut lacus ac iaculis. ",
+    "img": "https://www.supercars.net/blog/wp-content/uploads/2019/11/best-supercar-by-year.png"
+  },
+  {
+    "id": "2",
+    "name": "car3",
+    "category": "business",
+    "price": 4000000,
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis mattis velit, at pretium turpis mattis eu. In fringilla eleifend vestibulum. Aliquam vitae luctus elit. Curabitur maximus tortor at metus sodales, eu finibus nunc tincidunt. Curabitur arcu libero, sollicitudin in elit sed, fringilla venenatis lectus. Quisque vel vestibulum ex. Nulla ac ligula sit amet mauris volutpat eleifend at quis nibh. Sed varius ut lacus ac iaculis. ",
+    "img": "https://www.supercars.net/blog/wp-content/uploads/2019/11/best-supercar-by-year.png"
+  },
+  {
+    "id": "3",
+    "name": "car4",
+    "category": "convertible",
+    "price": 4000000,
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis mattis velit, at pretium turpis mattis eu. In fringilla eleifend vestibulum. Aliquam vitae luctus elit. Curabitur maximus tortor at metus sodales, eu finibus nunc tincidunt. Curabitur arcu libero, sollicitudin in elit sed, fringilla venenatis lectus. Quisque vel vestibulum ex. Nulla ac ligula sit amet mauris volutpat eleifend at quis nibh. Sed varius ut lacus ac iaculis. ",
+    "img": "https://www.supercars.net/blog/wp-content/uploads/2019/11/best-supercar-by-year.png"
+  },
+  {
+    "id": "4",
+    "name": "car5",
+    "category": "crossover",
+    "price": 4000000,
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis mattis velit, at pretium turpis mattis eu. In fringilla eleifend vestibulum. Aliquam vitae luctus elit. Curabitur maximus tortor at metus sodales, eu finibus nunc tincidunt. Curabitur arcu libero, sollicitudin in elit sed, fringilla venenatis lectus. Quisque vel vestibulum ex. Nulla ac ligula sit amet mauris volutpat eleifend at quis nibh. Sed varius ut lacus ac iaculis. ",
+    "img": "https://www.supercars.net/blog/wp-content/uploads/2019/11/best-supercar-by-year.png"
+  },
+  {
+    "id": "5",
+    "name": "car6",
+    "category": "supercar",
+    "price": 4000000,
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis mattis velit, at pretium turpis mattis eu. In fringilla eleifend vestibulum. Aliquam vitae luctus elit. Curabitur maximus tortor at metus sodales, eu finibus nunc tincidunt. Curabitur arcu libero, sollicitudin in elit sed, fringilla venenatis lectus. Quisque vel vestibulum ex. Nulla ac ligula sit amet mauris volutpat eleifend at quis nibh. Sed varius ut lacus ac iaculis. ",
+    "img": "https://www.supercars.net/blog/wp-content/uploads/2019/11/best-supercar-by-year.png"
+  },
+  {
+    "id": "6",
+    "name": "car7",
+    "category": "crossover",
+    "price": 4000000,
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis mattis velit, at pretium turpis mattis eu. In fringilla eleifend vestibulum. Aliquam vitae luctus elit. Curabitur maximus tortor at metus sodales, eu finibus nunc tincidunt. Curabitur arcu libero, sollicitudin in elit sed, fringilla venenatis lectus. Quisque vel vestibulum ex. Nulla ac ligula sit amet mauris volutpat eleifend at quis nibh. Sed varius ut lacus ac iaculis. ",
+    "img": "https://www.supercars.net/blog/wp-content/uploads/2019/11/best-supercar-by-year.png"
+  },
+  {
+    "id": "7",
+    "name": "car8",
+    "category": "business",
+    "price": 4000000,
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sagittis mattis velit, at pretium turpis mattis eu. In fringilla eleifend vestibulum. Aliquam vitae luctus elit. Curabitur maximus tortor at metus sodales, eu finibus nunc tincidunt. Curabitur arcu libero, sollicitudin in elit sed, fringilla venenatis lectus. Quisque vel vestibulum ex. Nulla ac ligula sit amet mauris volutpat eleifend at quis nibh. Sed varius ut lacus ac iaculis. ",
+    "img": "https://www.supercars.net/blog/wp-content/uploads/2019/11/best-supercar-by-year.png"
+  }
+]

@@ -1,0 +1,53 @@
+.main {
+}
+.container {
+  width: 1170px;
+  margin: 0px auto;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.title {
+  margin-bottom: 50px;
+  font-size: 40px;
+}
+.items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+.item {
+  border: 5px solid #bbb;
+  border-radius: 5px;
+  width: 250px;
+  height: 300px;
+  position: relative;
+  background-size: cover !important;
+}
+.item:nth-child(1) {
+  background: url('/sportcar2.jpg');
+}
+.item:nth-child(2) {
+  background: url('/lux.jpg');
+}
+.item:nth-child(3) {
+  background: url('/business.jpg');
+}
+.item:nth-child(4) {
+  background: url('/convertible.jpg');
+}
+.item:nth-child(5) {
+  background: url('/crossover.webp');
+}
+.category_name {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  font-size: 30px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.item:hover .category_name {
+  color: #53c28b;
+  transition: 0.3s;
+}

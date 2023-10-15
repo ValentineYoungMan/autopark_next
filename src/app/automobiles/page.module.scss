@@ -1,0 +1,43 @@
+.main {
+}
+.container {
+  width: 1170px;
+  margin: 0px auto;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.items {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  max-width: 1170px;
+  width: 100%;
+}
+.auto {
+  padding: 25px 20px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  margin-bottom: 40px;
+  margin-right: 40px;
+  width: 245px;
+  cursor: pointer;
+}
+.auto__img {
+  margin-bottom: 20px;
+}
+.auto__info {
+}
+.auto__info__category {
+  margin-bottom: 15px;
+}
+.auto__info__category span {
+  background-color: #161616;
+  border-radius: 3px;
+  color: #fff;
+  padding: 3px 10px;
+}
+.auto__info__name {
+  margin-bottom: 10px;
+}
+.auto__info__description {
+}

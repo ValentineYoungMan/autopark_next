@@ -1,0 +1,44 @@
+.nav {
+  background-color: #161616;
+  color: #939393;
+  font-family: 'Fira Sans', sans-serif;
+}
+.container {
+  width: 1170px;
+  margin: 0 auto;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  font-weight: bold;
+  font-size: 22px;
+  color: #ffffff;
+}
+.links {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  font-size: 18px;
+  font-weight: 500;
+}
+.link {
+  transition: 0.3s;
+  &:hover {
+    color: #ffffff;
+    transition: 0.3s;
+  }
+}
+.addAuto {
+  border: 2px solid #ffff;
+  padding: 6px 25px;
+  color: #fff;
+  margin-left: 20px;
+  background-color: #161616;
+  transition: 0.3s;
+  &:hover {
+    background-color: #939393;
+    transition: 0.3s;
+  }
+}
